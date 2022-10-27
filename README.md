@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">🐰 My Git 🙌🏻</h3>
 <h4 align="center">- College Student<br/>- UI/UX Designer & Developer</h4>
 
+<br/>
+
 <h4 align="center">👩🏻‍💻 Tech stack 🐾</h4>
 <h5 align="center">#HTML #CSS #Javascript #JQuery #Photoshop<br/> #JAVA #Python #MySQL #Excel</h5>
 
