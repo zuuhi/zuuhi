@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Zuuhi&fontSize=90" />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzuuhi%2Fzuuhi&count_bg=%23ACD2F1&title_bg=%23D6D6D6&icon=github.svg&icon_color=%23E9E9E9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzuuhi%2Fzuuhi&count_bg=%23ACD2F1&title_bg=%23D6D6D6&icon=github.svg&icon_color=%23E9E9E9&title=Hits&edge_flat=false"/></a>
