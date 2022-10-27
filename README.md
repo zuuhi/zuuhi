@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Zuuhi&fontSize=90" /></p>
 
 <h3 align="center">🐰 My Git 🙌🏻</h3>
-<p align="center"><h4>College Student</h4></br><h4>UI/UX Designer & Developer</h4></p>
+<h4 align="center">College Student</h4>
+<h4 align="center">UI/UX Designer & Developer</h4>
 
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzuuhi%2F&count_bg=%23D9E5FF&title_bg=%23D3D3D3&icon=github.svg&icon_color=%239E9E9E&title=Hits&edge_flat=false"/></a></p>
