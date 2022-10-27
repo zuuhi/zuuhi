@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Zuuhi&fontSize=90" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=190&section=header&text=Zuuhi&fontSize=90" /></p>
 
 <h3 align="center">🐰 My Git 🙌🏻</h3>
 <h4 align="center">- College Student<br/>- UI/UX Designer & Developer</h4>
