@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/>
 
 <h4 align="center">✨ TMI 🌙</h4>
-<h5 align="center">- ENFP<br/>1. Dance 2. Sports 3. Music</h5>
+<h5 align="center">- ENFP<br/>- Dance - Sports - Music</h5>
 
 <br/><br/>
 
