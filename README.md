@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 
 <h4 align="center">👩🏻‍💻 Tech stack 🐾</h4>
-<h5 align="center">#HTML #CSS #Javascript #JQuery #Photoshop<br/>#JAVA #AndroidStudio #Python #MySQL #Excel<br/><br/>+ Edit Video</h5>
+<h5 align="center">#HTML #CSS #Javascript #JQuery #Photoshop<br/>#JAVA #AndroidStudio #Python<br/>#MySQL #Excel<br/><br/>+ Edit Video</h5>
 
 <br/>
 
