@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h4 align="center">✨ TMI 🌙</h4>
 <h5 align="center">- ENFP<br/>Dance / Sports / Music</h5>
 
-<h4 align="center">🍒 Link 🎧</h4>
+<h4 align="center">🍒 Link 🤍</h4>
 <h5 align="center">- ENFP<br/>Dance / Sports / Music</h5>
 
 <br/><br/>
