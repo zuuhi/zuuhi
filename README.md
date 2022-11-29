@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h5 align="center">- ENFP<br/>Dance / Sports / Music</h5>
 
 <h4 align="center">🍒 Link 🤍</h4>
-<h5 align="center">- ENFP<br/>Dance / Sports / Music</h5>
+Notion	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br/><br/>
 
